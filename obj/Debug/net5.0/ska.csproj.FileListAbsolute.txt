@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\ska\obj\Debug\net5.0\ska.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\ska\obj\Debug\net5.0\ska.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\ska\obj\Debug\net5.0\ska.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\ska\obj\Debug\net5.0\ska.AssemblyInfo.cs
+C:\Users\Admin\Desktop\ska\obj\Debug\net5.0\ska.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ska\bin\Debug\net5.0\ska.exe
+C:\Users\Admin\Desktop\ska\bin\Debug\net5.0\ska.deps.json
+C:\Users\Admin\Desktop\ska\bin\Debug\net5.0\ska.runtimeconfig.json
+C:\Users\Admin\Desktop\ska\bin\Debug\net5.0\ska.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\ska\bin\Debug\net5.0\ska.dll
+C:\Users\Admin\Desktop\ska\bin\Debug\net5.0\ref\ska.dll
+C:\Users\Admin\Desktop\ska\bin\Debug\net5.0\ska.pdb
+C:\Users\Admin\Desktop\ska\obj\Debug\net5.0\ska.dll
+C:\Users\Admin\Desktop\ska\obj\Debug\net5.0\ref\ska.dll
+C:\Users\Admin\Desktop\ska\obj\Debug\net5.0\ska.pdb
+C:\Users\Admin\Desktop\ska\obj\Debug\net5.0\ska.genruntimeconfig.cache
